@@ -91,6 +91,7 @@ const Index = () => {
           differences={differences}
         />
         <ExportButtons
+          rows={rows}
           totals={totals}
           requirements={requirements}
           differences={differences}
